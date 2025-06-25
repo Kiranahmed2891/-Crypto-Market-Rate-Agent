@@ -1,0 +1,24 @@
+# Ignore environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code folder
+.vscode/
+
+# Jupyter and other notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS or Windows system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment (agar banayi ho)
+venv/
+env/
+
+# Log files
+*.log
